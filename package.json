@@ -1,0 +1,12 @@
+{
+  "name": "amplitude-esbuild",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "amplitude-js": "^8.12.0"
+  },
+  "devDependencies": {
+    "esbuild": "^0.13.14"
+  }
+}
